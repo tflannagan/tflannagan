@@ -5,4 +5,3 @@ and how we can use them to make the world better for everyone!
 
 Feel free to contact me through one of the many avenues of today.
 
-Email: tylerflannagan@yahoo.com
