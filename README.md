@@ -32,7 +32,7 @@ I believe in lifelong learning. Currently, I'm exploring more about:
 
 ## 📈 GitHub Stats
 
-![Ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=tflannagan&show_icons=true&theme=radical)
+![Ty's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tflannagan&show_icons=true&theme=radical)
 
 ## ⚡ Fun fact
 
