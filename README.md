@@ -36,5 +36,5 @@ I believe in lifelong learning. Currently, I'm exploring more about:
 
 ## ⚡ Fun fact
 
-When I'm not coding, you can find me hiking, reading books or playing tennis.
+When I'm not coding, you can find me skiing, producing music or playing tennis.
 
