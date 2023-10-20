@@ -2,6 +2,8 @@
 
 Welcome to my Github! I am a developer dedicated to the emerging new technologies of the world and how we can use them to make the world better for everyone!
 
+Come check out my personal website [here](https://www.tyflannagan.tech/)!
+
 ## 🌐 About Me
 
 I'm passionate about creating innovative and efficient solutions with software. My interest in technology and its potential to positively impact lives led me to the tech industry. Here on GitHub, you'll find projects I've contributed to in various domains, showcasing my diverse skillset and adaptability.
