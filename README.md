@@ -30,7 +30,7 @@ I believe in lifelong learning. Currently, I'm exploring more about:
 
 - Machine Learning
 - Data Science with Python
-- Web/Application Development
+- Mobile Application Development
 
 ## 📈 GitHub Stats
 
