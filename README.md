@@ -18,7 +18,7 @@ Feel free to contact me through LinkedIn and let's make something amazing togeth
 
 Here are some of the technologies I've been working with:
 
-- **Languages**: Python, JavaScript, Scala
+- **Languages**: JavaScript, Python, Scala
 - **Web Development**: HTML, CSS, JavaScript, React.js
 - **Backend Development**: Node.js, Express.js, Django
 - **Databases**: MySQL, MongoDB, PostgreSQL
@@ -29,7 +29,7 @@ Here are some of the technologies I've been working with:
 I believe in lifelong learning. Currently, I'm exploring more about:
 
 - Machine Learning
-- Data Science with Python
+- Live Simulation Applications
 - Mobile Application Development
 
 ## 📈 GitHub Stats
