@@ -2,7 +2,7 @@
 
 Welcome to my Github! I am a developer dedicated to the emerging new technologies of the world and how we can use them to make the world better for everyone!
 
-Come check out my personal website [here]([https://www.tyflannagan.tech/](https://tflannagan.github.io/Portfolio2026/))!
+Come check out my personal website [here](https://tflannagan.github.io/Portfolio2026/)!
 
 ## 🌐 About Me
 
